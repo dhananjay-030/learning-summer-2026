@@ -1,1 +1,1 @@
-7 jun : touch and mkdir command only 
+7 jun : touch and mkdir command only (no typing)
