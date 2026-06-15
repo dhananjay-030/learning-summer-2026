@@ -128,6 +128,8 @@ It can span multiple lines.
 
 Any code placed inside a multi-line comment will also be ignored. If you move a `print` statement inside the multi-line comment, it will not execute.
 
+You may face a issue while commenting a Multi-line comment , so instead use `--[=[` to start and `]=]` to end .
+
 ---
 
 ## 5. Data Types
