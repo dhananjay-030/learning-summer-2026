@@ -27,7 +27,7 @@ local final = a .. f .. tostring(changing_variable)
 print(final)
 
 ]=]
-
+--------------------------------------------------------------
 --[=[ 
 
 local a = 12
@@ -58,7 +58,7 @@ local final = a .. f .. tostring(changing_variable)
 print(final)
 
 ]=]
-
+-------------------------------------------------------------
 --[=[
 local a = 12
 local b = true
